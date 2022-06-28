@@ -1,5 +1,6 @@
 # QuinnMcCluskey Logic Minimizer
-##C++ code for simulating the Quinn McCluskey process of logic minimization
+## C++ code for simulating the Quinn McCluskey process of logic minimization
+The code requires an `output.txt` file in the same directory as the code to print the results of the process
 
 
 ### THIS PROGRAM HAS FOLLOWING FEATURES:
