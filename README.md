@@ -1,4 +1,4 @@
-# QuinnMcCluskey
+# QuinnMcCluskey Logic Minimizer
 ##C++ code for simulating the Quinn McCluskey process of logic minimization
 
 
