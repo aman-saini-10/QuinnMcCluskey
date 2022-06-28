@@ -13,4 +13,4 @@ The code requires an `output.txt` file in the same directory as the code to prin
 ### THE PROGRAM ACCECPTS INPUTS IN TERMS OF 2 `vector<int>` (minterms and dontcare) AND AN `integer` (num).
 #### > * VECTOR `minterms` should contain the minterms associated with the boolean
 #### > * VECTOR `dontcare` should contain the dont care conditions associated with the boolean function
-#### > * INTEGER `num` DENOTES THE N0. OF TERMS
+#### > * INTEGER `num` DENOTES THE NO. OF TERMS
